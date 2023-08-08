@@ -10,7 +10,7 @@
   "author": "Brad Traversy",
   "license": "MIT",
   "devDependencies": {
-    "tailwindcss": "^3.3.3"
+    "tailwindcss": "^2.2.19"
   },
   "keywords": []
 }
